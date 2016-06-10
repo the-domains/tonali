@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-10T06:03:30.462Z'
+datePublished: '2016-06-10T06:03:34.846Z'
 sourcePath: _posts/2016-04-16-2016-heralds-beginning-of-the-megatall-skyscraper-era.md
 inFeed: true
 isBasedOnUrl: >-
@@ -21,7 +21,7 @@ author:
   - name: Amy Frearson
     url: 'http://www.dezeen.com/author/amy-frearson/'
     avatar: {}
-dateModified: '2016-06-10T06:03:29.870Z'
+dateModified: '2016-06-10T06:03:34.657Z'
 title: Tonali
 app_links: []
 publisher:
@@ -32,7 +32,7 @@ publisher:
 description: ''
 inLanguage: en
 inNav: false
-starred: true
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
