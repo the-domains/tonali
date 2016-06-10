@@ -1,0 +1,14 @@
+layout_spectrum: 0.13106795866042376
+typography_spectrum: 0.06260448135435581
+color:
+  brandStrength: 0.5617651862557977
+  lightness: 0.4115365040488541
+  saturation: 0.032173389568924904
+  rhythmicContrast: 0.0576913389377296
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: tonali
