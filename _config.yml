@@ -12,3 +12,6 @@ color:
     - '#3498DB'
     - '#2980B9'
 name: tonali
+author:
+  name: Diego Fernández Brun
+  email: diegobrun@hotmail.com
